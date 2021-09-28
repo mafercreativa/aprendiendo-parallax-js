@@ -1,2 +1,2 @@
-# aprendiendo-parallax-js
+# Aprendiendo Parallax con JS
  Guía para aprendizaje
