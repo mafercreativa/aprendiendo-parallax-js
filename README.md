@@ -1,4 +1,4 @@
 # Aprendiendo Parallax con JS
- Guía para aprendizaje
+ Guía para aprendizaje. 
  Orden:
  - Mouse X
